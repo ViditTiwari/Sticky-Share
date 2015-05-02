@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #################
 ## Eclipse
 #################
@@ -122,10 +123,16 @@ UpgradeLog*.XML
 
 # Windows image file caches
 Thumbs.db
+=======
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+>>>>>>> dad8625a953512b923a69b2aecb16d4ab7ac47d5
 
 # Folder config file
 Desktop.ini
 
+<<<<<<< HEAD
 
 #############
 ## Python
@@ -161,3 +168,41 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+=======
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+>>>>>>> dad8625a953512b923a69b2aecb16d4ab7ac47d5
